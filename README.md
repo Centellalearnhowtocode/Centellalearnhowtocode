@@ -1,7 +1,7 @@
 <h1  style="
         background: red;
         color: #ffc8dd;
-        font-family: Georgia, &quot;Times New Roman&quot;, Times, serif;
+        font-family: 'Ubuntu', sans-serif;
       ">Centellalearnhowtocode</h1>
 <p style="
         color: #ffc8dd;
