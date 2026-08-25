@@ -1,6 +1,7 @@
 <h1  style="
-        background: red;
+       background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhASib-cF6zLA7LGYzN14mtkQKEqoJHmrnXtPDOUMoWg&s=10);
         color: #ffc8dd;
+        font-size: 50px;
         font-family: 'Ubuntu', sans-serif;
       ">Centellalearnhowtocode</h1>
 <p style="
